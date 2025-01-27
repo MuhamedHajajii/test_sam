@@ -3,9 +3,8 @@
 @plugin "flowbite/plugin";
 @source "../node_modules/flowbite";
 
-
 @layer components {
-    .card {
-        @apply bg-white rounded-sm border py-8 px-4 relative flex flex-col;
-    }
+  .card {
+    @apply bg-white rounded-sm border py-8 px-4 relative flex flex-col;
+  }
 }
